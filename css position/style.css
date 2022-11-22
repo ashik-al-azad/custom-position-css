@@ -1,0 +1,26 @@
+.nav-area{
+   border: 5px solid red;
+   display: inline-block;
+   position: fixed;
+   top: 0;
+   left: 0;
+}
+.div1{
+   border: 5px solid red;
+   width: 500px;
+   height: 100px;
+}
+.div2{
+   border: 5px solid green;
+   width: 500px;
+   height: 200px;
+   position: relative;
+}
+.div3{
+   border: 5px solid yellow;
+   display: inline-block;
+   position: absolute;
+   left: 30%;
+
+  
+}

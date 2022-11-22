@@ -1,0 +1,17 @@
+div{
+   background-color: lightgreen;
+   width: 200px;
+   height: 200px;
+   position: sticky;
+   bottom: 0px;
+   right: 0px;
+}
+.a{
+   width: 100px;
+   height: 100px;
+   position: absolute;
+   background-color: red;
+   left: 0;
+   bottom: 0;
+   top: auto;
+}

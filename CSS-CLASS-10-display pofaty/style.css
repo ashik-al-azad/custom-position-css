@@ -1,0 +1,25 @@
+h1{
+   border: 5px solid red;
+   display: inline;
+   padding: 20px;
+}
+span{
+   border: 5px solid green;
+   display: block;
+}
+h2{
+   border: 5px solid red;
+   display: inline-block;
+   padding: 20px;
+}
+h3{
+   border: 5px solid green;
+   display: block;
+}
+h4{
+   border: 5px solid yellow;
+   display: none;
+}
+li{
+   display: inline-block;
+}
